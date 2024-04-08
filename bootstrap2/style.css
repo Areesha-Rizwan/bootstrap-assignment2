@@ -127,7 +127,7 @@ nav,
   margin-top: 35px;
 }
 .square {
-  background: url(images/square-pattern.png);
+  background: url(images/bg.png);
   background-size: cover;
   background-repeat: no-repeat;
   padding: 40px 24px 60px 24px;
